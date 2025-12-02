@@ -1,0 +1,6 @@
+spark-submit weather.py input.txt minimum maximum
+$ cat minimum/*
+$ cat maximum/*
+
+// if no text files are generated
+spark-submit word_character_count.py
